@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "freertos_sdk_config.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "D:/msys64/mingw64/bin/gcc.exe"
+}
